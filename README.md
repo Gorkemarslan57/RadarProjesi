@@ -30,12 +30,12 @@ Bu proje, Arduino ve Python kullanılarak geliştirilen bir radar sistemidir. Ar
 
 ## Uygulama Ekran Çıktısı
 
-(https://drive.google.com/uc?export=view&id=1uDCXtmhTNuju1J_CXbYBAzpQjt0NweXL)
+![](https://drive.google.com/uc?export=view&id=1uDCXtmhTNuju1J_CXbYBAzpQjt0NweXL)
 
 
 
 
-(https://drive.google.com/uc?export=view&id=1a9zd5Qo7oKwppClKa3L22av6KS1d-MYw)
+![](https://drive.google.com/uc?export=view&id=1a9zd5Qo7oKwppClKa3L22av6KS1d-MYw)
 
 
 
