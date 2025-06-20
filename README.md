@@ -39,5 +39,14 @@ Bu proje, Arduino ve Python kullanılarak geliştirilen bir radar sistemidir. Ar
 
 
 
+## Proje taslağı
+
+![](https://drive.google.com/uc?export=view&id=18T1OYApeMj73gYWKY_LKMRD4PpKsmoS0)
+
+
+
+![](https://drive.google.com/uc?export=view&id=1wYS8aHtM-ABNH5WX1hfhH4ioj8dWCxrU)
+
+
 
 
