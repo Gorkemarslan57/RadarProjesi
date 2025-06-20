@@ -62,22 +62,16 @@ def animate(i):
                     distance = int(distance_str)
                     angle = int(angle_str)
                     
-                    # mesafeyi sınırla
+            
                     if distance > max_distance or distance < 0:
                         distance = max_distance
-                    
-                    # açıyı radyana çevir (matlotlib için)
                     angle_rad = math.radians(angle)
-                    
-                    # açı ve mesafeyi kaydet
                     angles = [angle_rad]
                     distances = [distance]
-                    
-                    # geçmiş verilere ekle
                     history_angles.append(angle_rad)
                     history_distances.append(distance)
                     
-                    # son 100 veriyi tut
+# son 100 veriyi tutulacak şekile getir
                     if len(history_angles) > 100:
                         history_angles = history_angles[-100:]
                         history_distances = history_distances[-100:]

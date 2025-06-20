@@ -1,10 +1,10 @@
 #include <Arduino.h>
 #include <Servo.h>
 
-// servo motor objesi oluştur
+
 Servo myservo;
 
-
+// ultrasonik sensör pinleri
 const int trigPin = 10;  
 const int echoPin = 11; 
 const int servoPin = 12; 
